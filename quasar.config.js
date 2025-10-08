@@ -44,7 +44,7 @@ export default defineConfig((/* ctx */) => {
 
       // rebuildCache: true, // rebuilds Vite/linter/etc cache on startup
 
-      // publicPath: '/',
+      publicPath: '/6704101317-Jirayu-Vanasin/',
       // analyze: true,
       // env: {},
       // rawDefine: {}
